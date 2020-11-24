@@ -7,12 +7,23 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+A website for users to find local produce suppliers, and for local producers/growers/farmers to share their links and goods.
 ### Features
-Include Features here
+-Marketplace - facilitate sales. 
+-Vendor Rating/Review Option - Let consumers rate their experiences with farmers. 
+-Link to Scheduled Events - users can link to upcoming events such as farmers markets. 
+-About Me/Profile/Bio - Vendors can link to their personal sites and summarize what they do and what they're offering. 
+-Media - Vendors can upload photos/descriptions of their available product. 
+-Search - Users can search for vendors by location, item, vendor, product type, event, farm type.
 ### Technologies
-Include Technologies here
+Java
 ### What I'll Have to Learn
-Include what you will need to learn here
+-Google API - Location search/listing? 
+-Shopping Cart? 
+-RSS Feeds 
+-Deploying 
+-Complimenting Java with JavaScript (why use Angular WITH Springboot) 
+-How to use Java on the front end
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/yCqEiAS2/2020-november-liftoff-megans-group
